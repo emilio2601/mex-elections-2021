@@ -1,0 +1,503 @@
+[
+  {
+    "idEstado": "1",
+    "nombreEstado": "AGUASCALIENTES",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Jesús María" },
+      { "idDistrito": "2", "nombreDistrito": "Aguascalientes" },
+      { "idDistrito": "3", "nombreDistrito": "Aguascalientes" }
+    ]
+  },
+  {
+    "idEstado": "2",
+    "nombreEstado": "BAJA CALIFORNIA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Mexicali" },
+      { "idDistrito": "2", "nombreDistrito": "Mexicali" },
+      { "idDistrito": "3", "nombreDistrito": "Ensenada" },
+      { "idDistrito": "4", "nombreDistrito": "Tijuana" },
+      { "idDistrito": "5", "nombreDistrito": "Tijuana" },
+      { "idDistrito": "6", "nombreDistrito": "Tijuana" },
+      { "idDistrito": "7", "nombreDistrito": "Mexicali" },
+      { "idDistrito": "8", "nombreDistrito": "Tijuana" }
+    ]
+  },
+  {
+    "idEstado": "3",
+    "nombreEstado": "BAJA CALIFORNIA SUR",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "La Paz" },
+      { "idDistrito": "2", "nombreDistrito": "San José del Cabo" }
+    ]
+  },
+  {
+    "idEstado": "4",
+    "nombreEstado": "CAMPECHE",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "San Francisco de Campeche" },
+      { "idDistrito": "2", "nombreDistrito": "Ciudad del Carmen" }
+    ]
+  },
+  {
+    "idEstado": "5",
+    "nombreEstado": "COAHUILA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "PIEDRAS NEGRAS" },
+      { "idDistrito": "2", "nombreDistrito": "SAN PEDRO" },
+      { "idDistrito": "3", "nombreDistrito": "MONCLOVA" },
+      { "idDistrito": "4", "nombreDistrito": "Saltillo" },
+      { "idDistrito": "5", "nombreDistrito": "Torreón" },
+      { "idDistrito": "6", "nombreDistrito": "Torreón" },
+      { "idDistrito": "7", "nombreDistrito": "Saltillo" }
+    ]
+  },
+  {
+    "idEstado": "6",
+    "nombreEstado": "COLIMA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "COLIMA" },
+      { "idDistrito": "2", "nombreDistrito": "MANZANILLO" }
+    ]
+  },
+  {
+    "idEstado": "7",
+    "nombreEstado": "CHIAPAS",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "PALENQUE" },
+      { "idDistrito": "2", "nombreDistrito": "BOCHIL" },
+      { "idDistrito": "3", "nombreDistrito": "OCOSINGO" },
+      { "idDistrito": "4", "nombreDistrito": "Pichucalco" },
+      { "idDistrito": "5", "nombreDistrito": "San Cristóbal de Las Casas" },
+      { "idDistrito": "6", "nombreDistrito": "Tuxtla Gutiérrez" },
+      { "idDistrito": "7", "nombreDistrito": "Tonalá" },
+      { "idDistrito": "8", "nombreDistrito": "Comitán de Domínguez" },
+      { "idDistrito": "9", "nombreDistrito": "Tuxtla Gutiérrez" },
+      { "idDistrito": "10", "nombreDistrito": "VILLAFLORES" },
+      { "idDistrito": "11", "nombreDistrito": "Las Margaritas" },
+      { "idDistrito": "12", "nombreDistrito": "TAPACHULA" },
+      { "idDistrito": "13", "nombreDistrito": "Huehuetán" }
+    ]
+  },
+  {
+    "idEstado": "8",
+    "nombreEstado": "CHIHUAHUA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Juárez" },
+      { "idDistrito": "2", "nombreDistrito": "Juárez" },
+      { "idDistrito": "3", "nombreDistrito": "Juárez" },
+      { "idDistrito": "4", "nombreDistrito": "Juárez" },
+      { "idDistrito": "5", "nombreDistrito": "DELICIAS" },
+      { "idDistrito": "6", "nombreDistrito": "CHIHUAHUA" },
+      { "idDistrito": "7", "nombreDistrito": "Cuauhtémoc" },
+      { "idDistrito": "8", "nombreDistrito": "CHIHUAHUA" },
+      { "idDistrito": "9", "nombreDistrito": "HIDALGO DEL PARRAL" }
+    ]
+  },
+  {
+    "idEstado": "9",
+    "nombreEstado": "CIUDAD DE MEXICO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "GUSTAVO A. MADERO" },
+      { "idDistrito": "2", "nombreDistrito": "GUSTAVO A. MADERO" },
+      { "idDistrito": "3", "nombreDistrito": "AZCAPOTZALCO" },
+      { "idDistrito": "4", "nombreDistrito": "IZTAPALAPA" },
+      { "idDistrito": "5", "nombreDistrito": "TLALPAN" },
+      { "idDistrito": "6", "nombreDistrito": "La Magdalena Contreras" },
+      { "idDistrito": "7", "nombreDistrito": "GUSTAVO A. MADERO" },
+      { "idDistrito": "8", "nombreDistrito": "Cuauhtémoc" },
+      { "idDistrito": "9", "nombreDistrito": "Tláhuac" },
+      { "idDistrito": "10", "nombreDistrito": "MIGUEL HIDALGO" },
+      { "idDistrito": "11", "nombreDistrito": "VENUSTIANO CARRANZA" },
+      { "idDistrito": "12", "nombreDistrito": "CUAUHTÉMOC" },
+      { "idDistrito": "13", "nombreDistrito": "IZTACALCO" },
+      { "idDistrito": "14", "nombreDistrito": "TLALPAN" },
+      { "idDistrito": "15", "nombreDistrito": "BENITO JUÁREZ" },
+      { "idDistrito": "16", "nombreDistrito": "ALVARO OBREGÓN" },
+      { "idDistrito": "17", "nombreDistrito": "Cuajimalpa de Morelos" },
+      { "idDistrito": "18", "nombreDistrito": "IZTAPALAPA" },
+      { "idDistrito": "19", "nombreDistrito": "IZTAPALAPA" },
+      { "idDistrito": "20", "nombreDistrito": "IZTAPALAPA" },
+      { "idDistrito": "21", "nombreDistrito": "XOCHIMILCO" },
+      { "idDistrito": "22", "nombreDistrito": "IZTAPALAPA" },
+      { "idDistrito": "23", "nombreDistrito": "COYOACÁN" },
+      { "idDistrito": "24", "nombreDistrito": "COYOACÁN" }
+    ]
+  },
+  {
+    "idEstado": "10",
+    "nombreEstado": "DURANGO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Victoria de Durango" },
+      { "idDistrito": "2", "nombreDistrito": "Gómez Palacio" },
+      { "idDistrito": "3", "nombreDistrito": "GUADALUPE VICTORIA" },
+      { "idDistrito": "4", "nombreDistrito": "Victoria de Durango" }
+    ]
+  },
+  {
+    "idEstado": "11",
+    "nombreEstado": "GUANAJUATO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "SAN LUIS de LA PAZ" },
+      { "idDistrito": "2", "nombreDistrito": "SAN MIGUEL de ALLENDE" },
+      { "idDistrito": "3", "nombreDistrito": "León" },
+      { "idDistrito": "4", "nombreDistrito": "GUANAJUATO" },
+      { "idDistrito": "5", "nombreDistrito": "León" },
+      { "idDistrito": "6", "nombreDistrito": "León" },
+      { "idDistrito": "7", "nombreDistrito": "San Francisco del Rincón" },
+      { "idDistrito": "8", "nombreDistrito": "SALAMANCA" },
+      { "idDistrito": "9", "nombreDistrito": "IRAPUATO" },
+      { "idDistrito": "10", "nombreDistrito": "URIANGATO" },
+      { "idDistrito": "11", "nombreDistrito": "León" },
+      { "idDistrito": "12", "nombreDistrito": "CELAYA" },
+      { "idDistrito": "13", "nombreDistrito": "Valle de Santiago" },
+      { "idDistrito": "14", "nombreDistrito": "Acámbaro" },
+      { "idDistrito": "15", "nombreDistrito": "Irapuato" }
+    ]
+  },
+  {
+    "idEstado": "12",
+    "nombreEstado": "GUERRERO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Ciudad Altamirano" },
+      { "idDistrito": "2", "nombreDistrito": "Iguala" },
+      { "idDistrito": "3", "nombreDistrito": "Zihuatanejo" },
+      { "idDistrito": "4", "nombreDistrito": "Acapulco" },
+      { "idDistrito": "5", "nombreDistrito": "Tlapa" },
+      { "idDistrito": "6", "nombreDistrito": "Chilapa" },
+      { "idDistrito": "7", "nombreDistrito": "Chilpancingo" },
+      { "idDistrito": "8", "nombreDistrito": "Ayutla de los Libres" },
+      { "idDistrito": "9", "nombreDistrito": "Acapulco" }
+    ]
+  },
+  {
+    "idEstado": "13",
+    "nombreEstado": "HIDALGO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "HUEJUTLA de REYES" },
+      { "idDistrito": "2", "nombreDistrito": "IXMIQUILPAN" },
+      { "idDistrito": "3", "nombreDistrito": "ACTOPAN" },
+      { "idDistrito": "4", "nombreDistrito": "TULANCINGO de BRAVO" },
+      { "idDistrito": "5", "nombreDistrito": "TULA de ALLENDE" },
+      { "idDistrito": "6", "nombreDistrito": "PACHUCA de SOTO" },
+      { "idDistrito": "7", "nombreDistrito": "TEPEAPULCO" }
+    ]
+  },
+  {
+    "idEstado": "14",
+    "nombreEstado": "JALISCO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "TEQUILA" },
+      { "idDistrito": "2", "nombreDistrito": "LAGOS de MORENO" },
+      { "idDistrito": "3", "nombreDistrito": "Tepatitlán de Morelos" },
+      { "idDistrito": "4", "nombreDistrito": "ZAPOPAN" },
+      { "idDistrito": "5", "nombreDistrito": "PUERTO VALLARTA" },
+      { "idDistrito": "6", "nombreDistrito": "ZAPOPAN" },
+      { "idDistrito": "7", "nombreDistrito": "Tonalá" },
+      { "idDistrito": "8", "nombreDistrito": "GUADALAJARA" },
+      { "idDistrito": "9", "nombreDistrito": "GUADALAJARA" },
+      { "idDistrito": "10", "nombreDistrito": "ZAPOPAN" },
+      { "idDistrito": "11", "nombreDistrito": "GUADALAJARA" },
+      { "idDistrito": "12", "nombreDistrito": "Santa Cruz de las Flores" },
+      { "idDistrito": "13", "nombreDistrito": "Tlaquepaque" },
+      { "idDistrito": "14", "nombreDistrito": "GUADALAJARA" },
+      { "idDistrito": "15", "nombreDistrito": "LA BARCA" },
+      { "idDistrito": "16", "nombreDistrito": "Tlaquepaque" },
+      { "idDistrito": "17", "nombreDistrito": "JOCOTEPEC" },
+      { "idDistrito": "18", "nombreDistrito": "Autlán de Navarro" },
+      { "idDistrito": "19", "nombreDistrito": "Ciudad Guzmán" },
+      { "idDistrito": "20", "nombreDistrito": "Tonalá" }
+    ]
+  },
+  {
+    "idEstado": "15",
+    "nombreEstado": "MEXICO",
+    "distritos": [
+      {
+        "idDistrito": "1",
+        "nombreDistrito": "Jilotepec de Andrés Molina Enríquez"
+      },
+      { "idDistrito": "2", "nombreDistrito": "Santa María Tultepec" },
+      { "idDistrito": "3", "nombreDistrito": "Atlacomulco de Fabela" },
+      { "idDistrito": "4", "nombreDistrito": "Nicolás Romero" },
+      { "idDistrito": "5", "nombreDistrito": "Teotihuacán de Arista" },
+      { "idDistrito": "6", "nombreDistrito": "Coacalco de Berriozábal" },
+      { "idDistrito": "7", "nombreDistrito": "Cuautitlán Izcalli" },
+      { "idDistrito": "8", "nombreDistrito": "Tultitlán de Mariano Escobedo" },
+      { "idDistrito": "9", "nombreDistrito": "San Felipe del Progreso" },
+      { "idDistrito": "10", "nombreDistrito": "Ecatepec de Morelos" },
+      { "idDistrito": "11", "nombreDistrito": "Ecatepec de Morelos" },
+      { "idDistrito": "12", "nombreDistrito": "IXTAPALUCA" },
+      { "idDistrito": "13", "nombreDistrito": "Ecatepec de Morelos" },
+      { "idDistrito": "14", "nombreDistrito": "Ciudad Adolfo López Mateos" },
+      { "idDistrito": "15", "nombreDistrito": "Ciudad Adolfo López Mateos" },
+      { "idDistrito": "16", "nombreDistrito": "Ecatepec de Morelos" },
+      { "idDistrito": "17", "nombreDistrito": "Ecatepec de Morelos" },
+      { "idDistrito": "18", "nombreDistrito": "Huixquilucan de Degollado" },
+      { "idDistrito": "19", "nombreDistrito": "Tlalnepantla de Baz" },
+      { "idDistrito": "20", "nombreDistrito": "Ciudad Nezahualcóyotl" },
+      { "idDistrito": "21", "nombreDistrito": "Amecameca de Juárez" },
+      { "idDistrito": "22", "nombreDistrito": "Naucalpan de Juárez" },
+      { "idDistrito": "23", "nombreDistrito": "Lerma de Villada" },
+      { "idDistrito": "24", "nombreDistrito": "Naucalpan de Juárez" },
+      { "idDistrito": "25", "nombreDistrito": "Chimalhuacán" },
+      { "idDistrito": "26", "nombreDistrito": "Toluca de Lerdo" },
+      { "idDistrito": "27", "nombreDistrito": "Metepec" },
+      { "idDistrito": "28", "nombreDistrito": "Zumpango de Ocampo" },
+      { "idDistrito": "29", "nombreDistrito": "Ciudad Nezahualcóyotl" },
+      { "idDistrito": "30", "nombreDistrito": "Chimalhuacán" },
+      { "idDistrito": "31", "nombreDistrito": "Ciudad Nezahualcóyotl" },
+      { "idDistrito": "32", "nombreDistrito": "Valle de Chalco Solidaridad" },
+      { "idDistrito": "33", "nombreDistrito": "Chalco de Díaz Covarrubias" },
+      { "idDistrito": "34", "nombreDistrito": "Toluca de Lerdo" },
+      { "idDistrito": "35", "nombreDistrito": "Tenancingo de Degollado" },
+      { "idDistrito": "36", "nombreDistrito": "Tejupilco de Hidalgo" },
+      { "idDistrito": "37", "nombreDistrito": "Cuautitlán" },
+      { "idDistrito": "38", "nombreDistrito": "Texcoco de Mora" },
+      { "idDistrito": "39", "nombreDistrito": "Los Reyes Acaquilpan" },
+      { "idDistrito": "40", "nombreDistrito": "San Miguel Zinacantepec" },
+      { "idDistrito": "41", "nombreDistrito": "Ojo de Agua" }
+    ]
+  },
+  {
+    "idEstado": "16",
+    "nombreEstado": "MICHOACAN",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Lázaro Cárdenas" },
+      { "idDistrito": "2", "nombreDistrito": "Puruandiro" },
+      { "idDistrito": "3", "nombreDistrito": "Heróica Zitácuaro" },
+      { "idDistrito": "4", "nombreDistrito": "Jiquilpan de Juárez" },
+      { "idDistrito": "5", "nombreDistrito": "Zamora de Hidalgo" },
+      { "idDistrito": "6", "nombreDistrito": "Ciudad Hidalgo" },
+      { "idDistrito": "7", "nombreDistrito": "ZACAPU" },
+      { "idDistrito": "8", "nombreDistrito": "MORELIA" },
+      { "idDistrito": "9", "nombreDistrito": "Uruapan del Progreso" },
+      { "idDistrito": "10", "nombreDistrito": "MORELIA" },
+      { "idDistrito": "11", "nombreDistrito": "Pátzcuaro" },
+      { "idDistrito": "12", "nombreDistrito": "Apatzingán de la Constitución" }
+    ]
+  },
+  {
+    "idEstado": "17",
+    "nombreEstado": "MORELOS",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "CUERNAVACA" },
+      { "idDistrito": "2", "nombreDistrito": "JIUTEPEC" },
+      { "idDistrito": "3", "nombreDistrito": "CUAUTLA" },
+      { "idDistrito": "4", "nombreDistrito": "JOJUTLA" },
+      { "idDistrito": "5", "nombreDistrito": "YAUTEPEC" }
+    ]
+  },
+  {
+    "idEstado": "18",
+    "nombreEstado": "NAYARIT",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Santiago Ixcuintla" },
+      { "idDistrito": "2", "nombreDistrito": "TEPIC" },
+      { "idDistrito": "3", "nombreDistrito": "COMPOSTELA" }
+    ]
+  },
+  {
+    "idEstado": "19",
+    "nombreEstado": "NUEVO LEON",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "SANTA CATARINA" },
+      { "idDistrito": "2", "nombreDistrito": "APODACA" },
+      { "idDistrito": "3", "nombreDistrito": "General Escobedo" },
+      { "idDistrito": "4", "nombreDistrito": "San Nicolás de los Garza" },
+      { "idDistrito": "5", "nombreDistrito": "MONTERREY" },
+      { "idDistrito": "6", "nombreDistrito": "MONTERREY" },
+      { "idDistrito": "7", "nombreDistrito": "García" },
+      { "idDistrito": "8", "nombreDistrito": "GUADALUPE" },
+      { "idDistrito": "9", "nombreDistrito": "LINARES" },
+      { "idDistrito": "10", "nombreDistrito": "MONTERREY" },
+      { "idDistrito": "11", "nombreDistrito": "GUADALUPE" },
+      { "idDistrito": "12", "nombreDistrito": "Benito Juárez" }
+    ]
+  },
+  {
+    "idEstado": "20",
+    "nombreEstado": "OAXACA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "SAN JUAN BAUTISTA TUXTEPEC" },
+      { "idDistrito": "2", "nombreDistrito": "Teotitlán de Flores Magón" },
+      {
+        "idDistrito": "3",
+        "nombreDistrito": "Heroica Ciudad de Huajuapan de León"
+      },
+      { "idDistrito": "4", "nombreDistrito": "TLACOLULA de MATAMOROS" },
+      { "idDistrito": "5", "nombreDistrito": "Salina Cruz" },
+      { "idDistrito": "6", "nombreDistrito": "HEROICA CIUDAD de TLAXIACO" },
+      { "idDistrito": "7", "nombreDistrito": "Ciudad Ixtepec" },
+      { "idDistrito": "8", "nombreDistrito": "Oaxaca de Juárez" },
+      { "idDistrito": "9", "nombreDistrito": "Puerto Escondido" },
+      { "idDistrito": "10", "nombreDistrito": "Miahuatlán de Porfirio Díaz" }
+    ]
+  },
+  {
+    "idEstado": "21",
+    "nombreEstado": "PUEBLA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Huahuchinango de Degollado" },
+      { "idDistrito": "2", "nombreDistrito": "Cuautilulco Barrio" },
+      { "idDistrito": "3", "nombreDistrito": "Teziutlán" },
+      { "idDistrito": "4", "nombreDistrito": "Ajalpan" },
+      {
+        "idDistrito": "5",
+        "nombreDistrito": "San Martín Texmelucan de Labastida"
+      },
+      { "idDistrito": "6", "nombreDistrito": "Heroica Puebla de Zaragoza" },
+      { "idDistrito": "7", "nombreDistrito": "Tepeaca" },
+      { "idDistrito": "8", "nombreDistrito": "Ciudad Serdán" },
+      { "idDistrito": "9", "nombreDistrito": "Heroica Puebla de Zaragoza" },
+      { "idDistrito": "10", "nombreDistrito": "Cholula de Rivadavia" },
+      { "idDistrito": "11", "nombreDistrito": "Heroica Puebla de Zaragoza" },
+      { "idDistrito": "12", "nombreDistrito": "Heroica Puebla de Zaragoza" },
+      { "idDistrito": "13", "nombreDistrito": "Atlixco" },
+      { "idDistrito": "14", "nombreDistrito": "Acatlán de Osorio" },
+      { "idDistrito": "15", "nombreDistrito": "Tehuacán" }
+    ]
+  },
+  {
+    "idEstado": "22",
+    "nombreEstado": "QUERETARO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Cadereyta de Montes" },
+      { "idDistrito": "2", "nombreDistrito": "San Juan del Río" },
+      { "idDistrito": "3", "nombreDistrito": "Santiago de Querétaro" },
+      { "idDistrito": "4", "nombreDistrito": "Santiago de Querétaro" },
+      { "idDistrito": "5", "nombreDistrito": "El Pueblito" }
+    ]
+  },
+  {
+    "idEstado": "23",
+    "nombreEstado": "QUINTANA ROO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Playa del Carmen" },
+      { "idDistrito": "2", "nombreDistrito": "Chetumal" },
+      { "idDistrito": "3", "nombreDistrito": "Cancún" },
+      { "idDistrito": "4", "nombreDistrito": "Cancún" }
+    ]
+  },
+  {
+    "idEstado": "24",
+    "nombreEstado": "SAN LUIS POTOSI",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "MATEHUALA" },
+      { "idDistrito": "2", "nombreDistrito": "Soledad de Graciano Sánchez" },
+      { "idDistrito": "3", "nombreDistrito": "RIOVERDE" },
+      { "idDistrito": "4", "nombreDistrito": "CIUDAD VALLES" },
+      { "idDistrito": "5", "nombreDistrito": "San Luis Potosí" },
+      { "idDistrito": "6", "nombreDistrito": "San Luis Potosí" },
+      { "idDistrito": "7", "nombreDistrito": "Tamazunchale" }
+    ]
+  },
+  {
+    "idEstado": "25",
+    "nombreEstado": "SINALOA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Mazatlán" },
+      { "idDistrito": "2", "nombreDistrito": "Los Mochis" },
+      { "idDistrito": "3", "nombreDistrito": "Guamuchil" },
+      { "idDistrito": "4", "nombreDistrito": "Guasave" },
+      { "idDistrito": "5", "nombreDistrito": "Culiacán de Rosales" },
+      { "idDistrito": "6", "nombreDistrito": "Mazatlán" },
+      { "idDistrito": "7", "nombreDistrito": "Culiacán de Rosales" }
+    ]
+  },
+  {
+    "idEstado": "26",
+    "nombreEstado": "SONORA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "San Luis Río Colorado" },
+      { "idDistrito": "2", "nombreDistrito": "NOGALES" },
+      { "idDistrito": "3", "nombreDistrito": "HERMOSILLO" },
+      { "idDistrito": "4", "nombreDistrito": "GUAYMAS" },
+      { "idDistrito": "5", "nombreDistrito": "HERMOSILLO" },
+      { "idDistrito": "6", "nombreDistrito": "Ciudad Obregón" },
+      { "idDistrito": "7", "nombreDistrito": "Navojoa" }
+    ]
+  },
+  {
+    "idEstado": "27",
+    "nombreEstado": "TABASCO",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "MACUSPANA" },
+      { "idDistrito": "2", "nombreDistrito": "Heroica Cárdenas" },
+      { "idDistrito": "3", "nombreDistrito": "COMALCALCO" },
+      { "idDistrito": "4", "nombreDistrito": "Villahermosa" },
+      { "idDistrito": "5", "nombreDistrito": "Paraíso" },
+      { "idDistrito": "6", "nombreDistrito": "Villahermosa" }
+    ]
+  },
+  {
+    "idEstado": "28",
+    "nombreEstado": "TAMAULIPAS",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "NUEVO LAREDO" },
+      { "idDistrito": "2", "nombreDistrito": "REYNOSA" },
+      { "idDistrito": "3", "nombreDistrito": "Río Bravo" },
+      { "idDistrito": "4", "nombreDistrito": "MATAMOROS" },
+      { "idDistrito": "5", "nombreDistrito": "Ciudad Victoria" },
+      { "idDistrito": "6", "nombreDistrito": "Ciudad Mante" },
+      { "idDistrito": "7", "nombreDistrito": "Ciudad Madero" },
+      { "idDistrito": "8", "nombreDistrito": "Tampico" },
+      { "idDistrito": "9", "nombreDistrito": "Reynosa" }
+    ]
+  },
+  {
+    "idEstado": "29",
+    "nombreEstado": "TLAXCALA",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "APIZACO" },
+      { "idDistrito": "2", "nombreDistrito": "Tlaxcala de Xicohténcatl" },
+      { "idDistrito": "3", "nombreDistrito": "ZACATELCO" }
+    ]
+  },
+  {
+    "idEstado": "30",
+    "nombreEstado": "VERACRUZ",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "Pánuco" },
+      { "idDistrito": "2", "nombreDistrito": "Tantoyuca" },
+      { "idDistrito": "3", "nombreDistrito": "Tuxpan de Rodríguez Cano" },
+      { "idDistrito": "4", "nombreDistrito": "VERACRUZ" },
+      { "idDistrito": "5", "nombreDistrito": "Poza Rica de Hidalgo" },
+      { "idDistrito": "6", "nombreDistrito": "Papantla de Olarte" },
+      { "idDistrito": "7", "nombreDistrito": "Martínez de la Torre" },
+      { "idDistrito": "8", "nombreDistrito": "XALAPA" },
+      { "idDistrito": "9", "nombreDistrito": "COATEPEC" },
+      { "idDistrito": "10", "nombreDistrito": "XALAPA" },
+      { "idDistrito": "11", "nombreDistrito": "COATZACOALCOS" },
+      { "idDistrito": "12", "nombreDistrito": "VERACRUZ" },
+      { "idDistrito": "13", "nombreDistrito": "HUATUSCO" },
+      { "idDistrito": "14", "nombreDistrito": "Minatitlán" },
+      { "idDistrito": "15", "nombreDistrito": "ORIZABA" },
+      { "idDistrito": "16", "nombreDistrito": "Córdoba" },
+      { "idDistrito": "17", "nombreDistrito": "COSAMALOAPAN" },
+      { "idDistrito": "18", "nombreDistrito": "ZONGOLICA" },
+      { "idDistrito": "19", "nombreDistrito": "San Andrés Tuxtla" },
+      { "idDistrito": "20", "nombreDistrito": "Cosoleacaque" }
+    ]
+  },
+  {
+    "idEstado": "31",
+    "nombreEstado": "YUCATAN",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "VALLADOLID" },
+      { "idDistrito": "2", "nombreDistrito": "PROGRESO" },
+      { "idDistrito": "3", "nombreDistrito": "Mérida" },
+      { "idDistrito": "4", "nombreDistrito": "Mérida" },
+      { "idDistrito": "5", "nombreDistrito": "TICUL" }
+    ]
+  },
+  {
+    "idEstado": "32",
+    "nombreEstado": "ZACATECAS",
+    "distritos": [
+      { "idDistrito": "1", "nombreDistrito": "FRESNILLO" },
+      { "idDistrito": "2", "nombreDistrito": "Jerez de García Salinas" },
+      { "idDistrito": "3", "nombreDistrito": "ZACATECAS" },
+      { "idDistrito": "4", "nombreDistrito": "GUADALUPE" }
+    ]
+  }
+]
